@@ -12,7 +12,7 @@ Once you have these prerequisites, you can clone the project code from this GitH
 
 To use the Quiz/Test Generator and Grader, follow these steps:
 
-    1. Start by providing a topic, number of questions, and number of options per question in the provided cells.
+    1. Start by providing a topic, number of questions, and number of options per question in the provided cell.
 
     2. Run the cell to generate a quiz or exam based on your inputs.
 
@@ -24,15 +24,19 @@ To use the Quiz/Test Generator and Grader, follow these steps:
 
 ### Input
 
+```
 Topic: "Python"
 
 Number of questions: 4
 
-Number of options per question: 4
+Number of options per question: 4 
+
+```
 
 ### Exam Simulator
 
-#### Q1. What type of language is Python?
+```
+Q1. What type of language is Python?
 
 A. Compiled 
 
@@ -44,7 +48,8 @@ D. Machine language
 
 Enter your answer: b
 
-#### Q2. What is the primary use of Python?
+
+Q2. What is the primary use of Python?
 
 A. Web development
 
@@ -56,7 +61,7 @@ D. Data analysis
 
 Enter your answer: d
 
-#### Q3. Which of the following is not a core data type in Python?
+Q3. Which of the following is not a core data type in Python?
 
 A. Lists
 
@@ -68,7 +73,7 @@ D. Classes
 
 Enter your answer: d
 
-#### Q4. What is the correct syntax to print the word 'Hello' in Python?
+Q4. What is the correct syntax to print the word 'Hello' in Python?
 
 A. println(Hello)
 
@@ -80,6 +85,12 @@ D. log('Hello')
 
 Enter your answer: b
 
+```
+
 ### Automatic grading
 
+```
+
 '3 out of 4 correct! You achieved: 75.0 % : Passed!'
+
+```
