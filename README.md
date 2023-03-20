@@ -91,6 +91,6 @@ Enter your answer: b
 
 ```
 
-'3 out of 4 correct! You achieved: 75.0 % : Passed!'
+3 out of 4 correct! You achieved: 75.0 % : Passed!
 
 ```
